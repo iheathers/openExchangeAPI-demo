@@ -2,7 +2,7 @@ import time
 from libs.openexchange import OpenExchangeClient
 
 
-APP_ID = "1f0598dacee64b79a89a68734e798d95"
+APP_ID = "1f0598dacee64b79a89a6898d95"
 
 client = OpenExchangeClient(APP_ID)
 
